@@ -1,0 +1,17 @@
+{
+  "name": "telegram-spam-bot",
+  "version": "1.0.0",
+  "description": "Bot Telegram untuk spam dan mengelola token.",
+  "main": "spam.js",
+  "scripts": {
+    "start": "node spam.js"
+  },
+  "dependencies": {
+    "axios": "^1.4.0",
+    "fs": "0.0.1-security",
+    "telegraf": "^4.9.1"
+  },
+  "devDependencies": {},
+  "author": "Asrv",
+  "license": "MIT"
+}
