@@ -22,4 +22,4 @@ CEK DISINI
 
 1. Clone repositori ini ke terminal Anda:
    ```bash
-   git clone https://github.com/yourusername/telegram-spam-bot.git
+   git clone https://github.com/ditt12/telegram-spam-bot.git
