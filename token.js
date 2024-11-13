@@ -1,3 +1,0 @@
-{
-  "token": "8165095400:AAG6m1bAayDBl_j75XWZXEBTUwaPTbooLV4"
-}
