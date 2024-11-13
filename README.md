@@ -16,7 +16,7 @@ Bot Telegram untuk mengirim pesan secara berulang ke chat tertentu dan menangani
 
 ## MANA SAJA YANG HARUS DI GANTI
 CEK DISINI
-
+https://telegra.ph/TELEGRAM-SPAM-BOT-11-13
 
 ## Instalasi
 
